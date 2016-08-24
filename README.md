@@ -5,7 +5,7 @@ A social networking website built with PHP for sports lover to connect and inter
 <h1> Home page of the logged in user</h1>
 <img src="https://raw.githubusercontent.com/paras11/sportsgossip/master/home.PNG"/>
 <p> The home page consists of various icons like newsfeed, upcoming events , polls, History on this day.</p>
-<img src="https://raw.githubusercontent.com/paras11/sportsgossip/master/icons.PNG"/>
+
 <img src="https://raw.githubusercontent.com/paras11/sportsgossip/master/upcominh.PNG"/>
 <img src="https://raw.githubusercontent.com/paras11/sportsgossip/master/results.PNG"/>
 <img src="https://raw.githubusercontent.com/paras11/sportsgossip/master/pollsstats.PNG"/>
