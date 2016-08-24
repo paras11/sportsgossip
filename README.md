@@ -1,4 +1,4 @@
-# sportsgossip
+# SportsGossip
 A social networking website built with PHP for sports lover to connect and interact 
 <h1> LOGIN PAGE</h1>
 <img src="https://raw.githubusercontent.com/paras11/sportsgossip/master/login.PNG"/>
